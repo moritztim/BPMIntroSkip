@@ -18,6 +18,7 @@ The script exits after running once as I only need it to run the first time BPM 
 3. Right click the `.ahk` file
 4. Select `Compile`.
 You can now use the resulting executable (even on a system that does not have AutoHotkey installed).
+
 You can even compare the hash with the executable I provided to see if you could've just trusted me in the first place.
 ### B: Running the executable *(if you trust me)*
 Simply download the executable of the [latest version](https://github.com/moritztim/BPMIntroSkip/releases/latest) and execute it.
