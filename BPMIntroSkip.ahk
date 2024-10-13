@@ -1,6 +1,7 @@
 ﻿#Requires AutoHotkey v2.0
 
 WinWait("Steam Big Picture Mode")
-Click("Left") ; any input skips the movie. Keep in mind that if your mouse cursor isn't on the same screen, this might hit something
+ControlClick("Intermediate D3D Window1") ; focus on the window
+Click() ; click (because steam ignores ControlClick)
 
 ExitApp ; I only want it to run for the first time steam is opened
