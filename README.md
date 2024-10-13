@@ -1,4 +1,4 @@
-# Big Picture Mode Intro Skip
+# <img src="Icon.png" alt="Alt text" style="height: 1em; vertical-align: middle;"> Big Picture Mode Intro Skip
 An AHK script to skip the Steam Big Picture Mode startup movie by clicking.
 
 The script exits after running once as I only need it to run the first time BPM is started. If you want to keep it running, simply remove the last instruction in the script.
