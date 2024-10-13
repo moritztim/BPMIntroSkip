@@ -23,3 +23,9 @@ You can even compare the hash with the executable I provided to see if you could
 ### B: Running the executable *(if you trust me)*
 Simply download the executable of the [latest version](https://github.com/moritztim/BPMIntroSkip/releases/latest) and execute it.
 > ⚠️ You should not trust a random stranger on the internet who gives you an executable, so it's highly advisable to review and compile/run the script yourself.
+
+## Run At Startup
+To run this script whenever your computer boots, follow these steps. You need an executable for this, so compile the script if you haven't already.
+1. Press `windows` + `r`
+2. Type `shell:startup` and hit `enter`
+3. Place the executable there or create a link to it (To create a link, simply drag the file into the folder while holding `alt`)
